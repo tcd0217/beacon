@@ -1,0 +1,25 @@
+apiVersion: v2
+name: beacon
+description: Production-ready observability stack with Prometheus, Loki, Tempo, Grafana, Alloy, and Promtail
+type: application
+version: 2.1.1
+appVersion: "2.1"
+keywords:
+  - observability
+  - monitoring
+  - logging
+  - tracing
+  - prometheus
+  - loki
+  - tempo
+  - grafana
+  - alloy
+  - promtail
+  - kubernetes
+  - helm
+  - telemetry
+maintainers:
+  - name: tcd0217
+home: https://github.com/tcd0217/beacon
+sources:
+  - https://github.com/tcd0217/beacon
